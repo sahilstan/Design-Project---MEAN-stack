@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "294067286307",
+    "firebase_url": "https://bpdc-1521897102647.firebaseio.com",
+    "project_id": "bpdc-1521897102647",
+    "storage_bucket": "bpdc-1521897102647.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294067286307:android:f168c39a0cc1ff09",
+        "android_client_info": {
+          "package_name": "com.learn2crack"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294067286307-4tmjet66njbb7sf6fpr8717d7atbgd2m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.learn2crack",
+            "certificate_hash": "1e897ec311fd44aa9d3f3a845ef522a60bc09bd9"
+          }
+        },
+        {
+          "client_id": "294067286307-653c2250ib8rekpjv50es5mmudj8jgu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiFtcs3Iu6wLgUh-MJAC1Gstu0gfnYVHs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294067286307-653c2250ib8rekpjv50es5mmudj8jgu4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
